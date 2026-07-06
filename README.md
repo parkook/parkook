@@ -1,16 +1,33 @@
-## Hi there 👋
+# Morteza Parkook
+Python Developer specialising in Automation, APIs, Data Analysis &amp; Web Applications | Founder of Vertex Axis
 
-<!--
-**parkook/parkook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I develop Python-based systems focused on:
 
-Here are some ideas to get you started:
+- Business automation and workflow optimisation
+- Data analysis and reporting
+- API integration and backend systems
+- Web applications and internal tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Founder of Vertex Axis, a software development company focused on building practical automation and data solutions for businesses.
+
+### Core Technologies
+
+- Python
+- Jupyter Notebook (Data analysis, reporting, prototyping)
+- Flask / FastAPI
+- PostgreSQL / SQLite
+- Pandas / NumPy
+- REST APIs
+- Selenium / BeautifulSoup
+- Git & GitHub
+
+### Featured Projects
+
+- Vertex Axis Portfolio Website – Consultancy website built with Flask
+- Business Process Automation Tools – Workflow and data automation systems
+- Data Analysis Projects – Insights, visualisation and reporting tools
+
+### Contact
+
+🌐 Website: https://vertexaxis.co.uk  
+📧 Email: info@vertexaxis.co.uk
